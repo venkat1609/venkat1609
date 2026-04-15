@@ -1,25 +1,22 @@
 # Venkatesh Sridhar  
-**Senior Full Stack Engineer** | Dubai | React/Next.js | FastAPI  
-
-![Header](https://i.imgur.com/your-header.png)
+**Senior Full Stack Engineer** | Dubai | React/Next.js | TypeScript | Node.js | FastAPI  
 
 ## About  
-Led Angular→React migrations | E-commerce/RTLS systems | 8+ yrs production code  
+Led Angular → React migrations | E-commerce / RTLS / Analytics Dashboards | 8+ yrs production code  
 
 ## Currently Building  
-- Order processing APIs (FastAPI)  
-- React/Next.js dashboards  
-- DP World RTLS integration  
+- YourFavMaker - A multi tenant ecommerce platform
+
 
 ## Tech Stack  
 **Frontend**: React, Next.js, TypeScript, Redux, TanStack Query  
-**Backend**: FastAPI, Node.js, JWT Auth  
-**Database**: PostgreSQL, MongoDB, SQLAlchemy  
-**Tools**: Docker, Vercel, Stripe, n8n  
+**Backend**: Node.js, FastAPI, JWT Auth  
+**Database**: PostgreSQL, MongoDB, Elasticsearch
+**Tools**: Docker, Vercel, Stripe, n8n
 
 ## Featured Projects  
-- **KPS E-commerce** - BoQ→installation pipelines [React + FastAPI]  
-- **DP World RTLS** - Real-time container tracking [React Query APIs]  
+- **KPS Mart** - B2B Furniture & Materials procurement platform [Angular + FastAPI]  
+- **DP World RTLS** - Real-time container and vehicle tracking [Next.js]
 - **Angular→React** - Enterprise migration + 40% perf gain  
 
 ## Stats 2026  
